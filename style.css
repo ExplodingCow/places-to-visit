@@ -1,0 +1,39 @@
+body {
+	background-color: Azure;
+}
+
+h1 {
+	color: darkgrey;
+	background-color: rgba(140,208,247,0.5);
+	font-size: 50pt;
+	font-family: 'Architects Daughter', cursive;
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+
+p {
+	color: rgb(112,45,32);
+	background-color: lightblue;
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+	border: 2px blue dashed;
+	border-radius: 10px;
+}
+
+h2, h3 {
+	color: grey;
+}
+
+h2 {
+	font-size: 30pt;
+}
+
+h3 {
+	font-size: 17pt;
+	border-top: 1px solid blue;
+	border-bottom: 3px double blue;
+}
+
+h1, h2, h3 {
+	text-align: center
+}
